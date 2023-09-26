@@ -1,3 +1,5 @@
+Before you start, fill out `.env.example` and rename it to `.env`
+
 ```shell
 python main.py --help
 
